@@ -1,4 +1,4 @@
-#Stock Portfolio Tracker
+Stock Portfolio Tracker
 This Python application provides a graphical interface for managing and tracking stock investments using Tkinter. It allows users to:
 
 Add Stocks: Enter stock symbols, purchase prices, and quantities.
